@@ -14,7 +14,7 @@ $ gcc main.c -o nutshell
 ## How to run it
 
 ```bash
-$ nutshell
+$ ./nutshell
 ```
 
 ## License
