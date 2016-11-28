@@ -14,3 +14,7 @@ $ gcc main.c -o nutshell
 ```bash
 $ nutshell
 ```
+
+## License
+
+See the [LICENSE](LICENSE) file for license (AGPL).
