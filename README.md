@@ -1,6 +1,8 @@
 # nutshell
 
-**nutshell** is an lightweight command shell with an extremely low
+![image](https://i.imgur.com/c6CdeAi.png)
+
+**nutshell** is a lightweight command shell with an extremely low
 memory footprint.
 
 ## Compiling
